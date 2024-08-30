@@ -1,0 +1,27 @@
+{
+  "name": "srinivass147",
+  "version": "1.0.0",
+  "description": "reverse the string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srinivasssaravanan/srinivass147.git"
+  },
+  "keywords": [
+    "string",
+    "reverse"
+  ],
+  "author": "srinivass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srinivasssaravanan/srinivass147/issues"
+  },
+  "homepage": "https://github.com/Srinivasssaravanan/srinivass147#readme",
+  "dependencies": {
+    "dhavamani114": "^1.0.0",
+    "srinivass147": "^1.0.0"
+  }
+}
